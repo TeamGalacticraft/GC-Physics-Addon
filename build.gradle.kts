@@ -14,7 +14,6 @@ base {
 repositories {
     maven("https://maven.fabricmc.net/")
     mavenCentral()
-    mavenLocal()
     maven("https://api.modrinth.com/maven")
     maven("https://repo.terradevelopment.net/repository/maven-releases/")
     maven("https://mvn.devos.one/snapshots/")
