@@ -1,5 +1,5 @@
 plugins {
-    id("fabric-loom") version "1.15.5"
+    id("fabric-loom") version "1.16.1"
     id("maven-publish")
     id("dev.galacticraft.mojarn") version "0.6.1+19"
 }
